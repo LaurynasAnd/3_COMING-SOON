@@ -3,12 +3,13 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![HitCount](http://hits.dwyl.com/LaurynasAnd/3_COMING-SOON.svg)](http://hits.dwyl.com/Lauryna/3_COMING-SOON)
 
-# Coming soon
-### 17 group - Coming soon
+# Coming soon page
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+
+This project is for learning purposes only. Pull requests are welcome, but keep in mind that I did this during my coding training! Thank you for your interest! :)
 
 Site published at https://laurynasand.github.io/3_COMING-SOON/
 
-### Authors
-[LA](https://github.com/LaurynasAnd)
+### Author:
+[Laurynas Andrulionis](https://github.com/LaurynasAnd)
+
