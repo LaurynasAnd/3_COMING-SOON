@@ -4,7 +4,38 @@
 
     #hero {
         padding-bottom: 20px;
+        min-height: 100vh;
+        background-image: url(../img/background.png);
+        background-size: cover;
+        background-position: center bottom;
+        background-attachment: fixed;
     }
+       .hero-content {
+           text-align: center;
+       }
+        .hero-content > .logo {  
+            margin-bottom: 40px;
+            width: 36px;
+        }
+        .hero-content > h1 {
+            margin-bottom: 20px;
+            font-size: 48px;
+            line-height: 50px;
+            text-transform: uppercase;
+        }
+        .hero-content > p {
+            margin-bottom: 60px;
+            font-size: 20px;
+            line-height: 25px;
+            color: #555;
+        }
+        .hero-content > .hero {
+            margin-bottom: 60px;
+        }
+        .hero-content > .form {
+            margin-bottom: 20px;
+        }
+
     #footer {
         padding-top: 20px;
     }
