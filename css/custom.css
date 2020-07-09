@@ -37,7 +37,7 @@ html {
         }
         .hero-content > .form {
             width: 90%;
-            margin: 0 5% 20px;
+            margin: 20px 5%;
         }
             .hero-content > .form > input{
                 background-color: transparent;
@@ -177,4 +177,12 @@ html {
         display: none;
     }
 
+}
+
+@media (max-width: 500px) {
+    .clock > .time {
+        width: 50%;
+        /* margin-bottom: 20px; */
+    }
+    /* .clock > .time */
 }
