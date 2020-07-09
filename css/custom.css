@@ -42,7 +42,9 @@ html {
     #main_content   {
 
     }
-
+        #main_content .btn  {
+            float: right;
+        }
         #main_content h2 {
             font-size: 24px;
             line-height: 30px;
@@ -132,7 +134,7 @@ html {
         }
         .back-to-top {
             position: absolute;
-            top: -10px;
+            top: -20px;
             right: -5px;
             width: 40px;
             font-size: 24px;
