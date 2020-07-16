@@ -58,7 +58,7 @@ html {
         #main_content h2 {
             font-size: 24px;
             line-height: 30px;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
             text-transform: uppercase;
         }
         #main_content p {
@@ -66,6 +66,7 @@ html {
             font-size: 18px;
             line-height: 22px;
             color: #555;
+            text-align: justify;
         }
 
     .footer-container {
