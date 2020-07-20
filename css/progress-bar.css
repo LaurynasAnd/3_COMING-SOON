@@ -33,4 +33,12 @@
             width: 90%;
             height: 100%;
             background-color: #03A9F3;
+            animation-name: loading;
+            animation-duration: 2s;
         }
+
+@keyframes loading {
+    0% {width: 0; background-color: red;}
+    50% {background-color: green;}
+    
+}
